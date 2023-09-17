@@ -1,0 +1,472 @@
+####
+品牌: OnePlus
+headphone name: OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic
+Wireless: yes
+续航时间: 20 Hrs
+充电时间: 10 Mins
+mode: Bombastic Bass - 12.4 Mm Drivers
+价格: 299
+
+####
+品牌: boAt
+headphone name: boAt Airdopes 141 Bluetooth Truly Wireless in Ear Earbuds with mic
+是否无线耳机: 无线
+续航时间: 42H
+充电时间: N/A
+mode: Beast Mode(Low Latency Upto 80ms) for Gaming
+价格: 995
+
+
+####
+品牌: boAt
+headphone name: boAt Airdopes Atom 81 True Wireless in Ear Earbuds with Upto 50H Playtime, Quad Mics ENx Tech, 13MM Drivers
+是否无线耳机: 无线
+续航时间: 50H
+充电时间: N/A
+mode: Beast Mode(50
+价格: 490
+
+
+####
+品牌: boAt
+headphone name: boAt Airdopes 141 Bluetooth Truly Wireless in Ear Earbuds with 42H Playtime, Beast Mode(Low Latency Upto 80ms) for Gaming
+Wireless: yes
+续航时间: 42H
+充电时间: N/A
+mode: Beast Mode(Low Latency Upto 80ms) for Gaming
+价格: 490
+
+
+####
+品牌: boAt
+headphone name: boAt BassHeads 100 in-Ear Wired Headphones with Mic (Black)
+Wireless: No
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+
+
+####
+品牌: boAt
+headphone name: boAt Rockerz 330 Bluetooth Wireless in Ear Earphones with mic, Upto 30 Hours Playtime, ASAP Charge, Signature Sound, Dual
+是否无线耳机: 无线
+续航时间: 30 Hours
+充电时间: ASAP Charge
+mode: Signature Sound, Dual
+价格: 990
+
+
+####
+品牌: OnePlus
+headphone name: OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass - 12.4 Mm Drivers, 10 Mins Charge - 20 Hrs
+是否无线耳机: 无线
+续航时间: 20 Hrs
+充电时间: 10 Mins Charge
+mode: Bombastic Bass - 12.4 Mm Drivers
+价格: 299
+
+
+####
+品牌: boAt
+headphone name: boAt Airdopes 121v2 in-Ear True Wireless Earbuds with Upto 14 Hours Playback, 8MM Drivers, Battery Indicators, Lightweight
+是否无线耳机: 无线
+续航时间: 14 Hours
+充电时间: N/A
+mode: N/A
+价格: 990
+
+
+####
+品牌: OnePlus
+headphone name: OnePlus Nord Buds True Wireless in Ear Earbuds with Mic, 12.4mm Titanium Drivers, Playback:Up to 30hr case, 4-Mic Design
+是否无线耳机: 无线
+续航时间: Up to 30hr case
+充电时间: N/A
+mode: 4-Mic Design
+价格: 999
+
+
+####
+品牌: boAt
+headphone name: boAt Airdopes 141 Pro True Wireless in Ear Earbuds with 45H Playtime, Quad Mics Enx Tech, 12mm Drivers, ASAP Charge, Beast
+是否无线耳机: 无线
+续航时间: 45H
+充电时间: ASAP Charge
+mode: Beast
+价格: 990
+
+
+####
+品牌: boAt
+headphone name: boAt Rockerz 255 Pro+ in-Ear Bluetooth Neckband with Upto 40 Hours Playback, ASAP Charge, IPX7, Dual Pairing, BT v5.0, wi
+是否无线耳机: 无线
+续航时间: 40 Hours
+充电时间: ASAP Charge
+mode: Dual Pairing, BT v5.0, wi
+价格: 990
+
+
+####
+品牌: boAt
+headphone name: boAt Airdopes 141 Bluetooth Truly Wireless in Ear Earbuds with 42H Playtime, Beast Mode(Low Latency Upto 80ms) for Gaming,
+是否无线耳机: 无线
+续航时间: 42H
+充电时间: N/A
+mode: Beast Mode(Low Latency Upto 80ms) for Gaming
+价格: 490
+
+
+####
+品牌: pTron
+headphone name: pTron Bassbuds Duo in Ear Earbuds with 32Hrs Total Playtime, Bluetooth 5.1 Wireless, Stereo Audio, Touch Control TWS, with
+是否无线耳机: 无线
+续航时间: 32Hrs
+充电时间: N/A
+mode: Touch Control TWS, with
+价格: 599
+
+
+####
+品牌: ZEBRONICS
+headphone name: ZEBRONICS Zeb-Bro in Ear Wired Earphones with Mic, 3.5mm Audio Jack, 10mm Drivers, Phone/Tablet Compatible(Black)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+
+
+####
+品牌: boAt
+headphone name: boAt Bassheads 220 Wired in Ear Earphones(Black Indi)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+
+####
+品牌: boAt
+headphone name: boAt BassHeads 900 On-Ear Wired Headphones with Mic (White)
+Wireless: yes
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 490
+
+
+####
+品牌: Boult Audio
+headphone name: Boult Audio Z40 True Wireless in Ear Earbuds with 60H Playtime, Zen鈩?ENC Mic, Low Latency Gaming, Type-C Fast Charging, Ma
+Wireless: No
+续航时间: 60H
+充电时间: Type-C Fast Charging
+mode: Zen鈩?ENC Mic, Low Latency Gaming
+价格: 999
+
+####
+品牌: OnePlus
+headphone name: OnePlus Nord Buds True Wireless in Ear Earbuds with Mic, 12.4mm Titanium Drivers, Playback:Up to 30hr case, 4-Mic Design +
+是否无线耳机: 无线
+续航时间: Up to 30hr case
+充电时间: N/A
+mode: 4-Mic Design +
+价格: 999
+
+
+####
+品牌: ZEBRONICS
+headphone name: ZEBRONICS Zeb-Bro in Ear Wired Earphones with Mic, 3.5mm Audio Jack, 10mm Drivers, Phone/Tablet Compatible(Green)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+
+
+####
+品牌: realme
+headphone name: realme TechLife Buds T100 Bluetooth Truly Wireless in Ear Earbuds with mic, AI ENC for Calls, Google Fast Pair, 28 Hours T
+是否无线耳机: 无线
+续航时间: 28 Hours
+充电时间: N/A
+mode: AI ENC for Calls, Google Fast Pair
+价格: 999
+
+
+####
+品牌: ZEBRONICS
+headphone name: ZEBRONICS Zeb-Bro in Ear Wired Earphones with Mic, 3.5mm Audio Jack, 10mm Drivers, Phone/Tablet Compatible(Blue)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+
+
+####
+品牌: boAt
+headphone name: boAt Airdopes 172 True Wireless in Ear Earbuds with ENx鈩?Tech, Beast Mode, 35H Playtime, 11mm Drivers, ASAP鈩?Charge, IPX4,
+是否无线耳机: 无线
+续航时间: 35H
+充电时间: ASAP鈩?Charge
+mode: Beast Mode
+价格: 990
+
+
+####
+品牌: OnePlus
+headphone name: OnePlus Nord Wired Earphones with mic, 3.5mm Audio Jack, Enhanced bass with 9.2mm Dynamic Drivers, in-Ear Wired Earphone -
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: Enhanced bass with 9.2mm Dynamic Drivers
+价格: 299
+
+
+####
+品牌: OnePlus
+headphone name: OnePlus Nord Buds CE Truly Wireless Bluetooth in Ear Earbuds (Mist Grey, True Wireless)
+是否无线耳机: 无线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 699
+
+
+####
+品牌: boAt
+headphone name: boAt Rockerz 255 Pro+ in-Ear Bluetooth Neckband with Upto 40 Hours Playback, ASAP聶 Charge, IPX7, Dual Pairing, BT v5.0, wi
+是否无线耳机: 无线
+续航时间: 40 Hours
+充电时间: ASAP Charge
+mode: Dual Pairing, BT v5.0, wi
+价格: 990
+
+
+####
+品牌: boAt
+headphone name: boAt bassheads 105 Wired in Ear Earphones with Mic (Green)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+
+
+####
+品牌: JBL
+headphone name: JBL C50HI, Wired in Ear Headphones with Mic, One Button Multi-Function Remote, Lightweight & Comfortable fit (Black)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+
+
+####
+品牌: boAt
+headphone name: boAt Bassheads 242 in Ear Wired Earphones with Mic(Active Black)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 490
+
+
+####
+品牌: boAt
+headphone name: boAt BassHeads 122 Wired in Ear Earphones with Heavy Bass, Integrated Controls and Mic (Gun Metal)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 290
+
+####
+品牌: OnePlus
+headphone name: OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic
+是否无线耳机: 无线
+续航时间: 20 Hrs
+充电时间: 10 Mins
+mode: Bombastic Bass - 12.4 Mm Drivers
+价格: 299
+
+####
+品牌: pTron
+headphone name: pTron Bassbuds Jade Truly Wireless in Ear Earbuds with 40ms Gaming Low Latency, HD Stereo Calls, 40Hrs Playtime, 1-Step Pa
+是否无线耳机: 无线
+续航时间: 40Hrs
+充电时间: N/A
+mode: 40ms Gaming Low Latency, HD Stereo Calls, 1-Step Pa
+价格: 699
+
+####
+品牌: boAt
+headphone name: boAt Bassheads 100 in Ear Wired Earphones with Mic(Furious Red)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+
+####
+品牌: Oppo
+headphone name: Oppo Enco M32 Bluetooth Wireless in Ear Earbuds with Mic
+是否无线耳机: 无线
+续航时间: 28Hrs
+充电时间: 10 Mins Charge - 20Hrs Music Fast Charge
+mode: 10mm
+价格: 999
+
+####
+品牌: pTron
+headphone name: pTron Tangentbeat in-Ear Bluetooth 5.0 Wireless Headphones with Mic, Enhanced Bass, 10mm Drivers, Clear Calls, Snug-Fit, F
+是否无线耳机: 无线
+续航时间: N/A
+充电时间: N/A
+mode: Enhanced Bass, 10mm Drivers, Clear Calls, Snug-Fit
+价格: 499
+
+####
+品牌: pTron
+headphone name: pTron Bassbuds Duo in Ear Earbuds with 32Hrs Total Playtime, Bluetooth 5.1 Wireless, Stereo Audio, Touch Control TWS, with
+是否无线耳机: 无线
+续航时间: 32Hrs
+充电时间: N/A
+mode: Bluetooth 5.1 Wireless, Stereo Audio, Touch Control TWS
+价格: 599
+
+####
+品牌: Boult Audio
+headphone name: Boult Audio Maverick Truly Wireless in Ear Earbuds with 35H Playtime, Quad Mic ENC, 45ms Xtreme Low Latency, Gaming LEDs,
+是否无线耳机: 无线
+续航时间: 35H
+充电时间: N/A
+mode: Quad Mic ENC, 45ms Xtreme Low Latency, Gaming LEDs
+价格: 499
+
+####
+品牌: JBL
+headphone name: JBL C50HI, Wired in Ear Headphones with Mic, One Button Multi-Function Remote, Lightweight & Comfortable fit (Blue)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+
+####
+品牌: OnePlus
+headphone name: OnePlus Buds Z2 Bluetooth Truly Wireless in Ear Earbuds with mic, Active Noise Cancellation, 10 Minutes Flash Charge & Upt
+是否无线耳机: 无线
+续航时间: N/A
+充电时间: 10 Minutes Flash Charge & Upt
+mode: Active Noise Cancellation
+价格: 999
+
+####
+品牌: boAt
+headphone name: boAt Rockerz 103 Pro Bluetooth in Ear Neckband with Beast Mode(40ms Low Latency), ENx Tech, ASAP Charge(Fast Charge), Upto
+是否无线耳机: 无线
+续航时间: N/A
+充电时间: N/A
+mode: Beast Mode(40ms Low Latency), ENx Tech, ASAP Charge(Fast Charge)
+价格: 490
+
+####
+品牌: boAt
+headphone name: boAt Rockerz 330 Pro in-Ear Bluetooth Neckband with 60HRS Playtime, ASAP Charge, ENx聶 Tech, Signature Sound, BT v5.2, Dua
+是否无线耳机: 无线
+续航时间: 60HRS
+充电时间: ASAP Charge
+mode: ENx聶 Tech, Signature Sound, BT v5.2
+价格: 990
+####
+品牌: Noise
+headphone name: Noise Buds VS104 in-Ear Truly Wireless Earbuds with 30H of Playtime, Instacharge(10 min=150 min), 13mm Driver, Mic, Hyper
+是否无线耳机: 无线
+续航时间: 30H
+充电时间: Instacharge(10 min=150 min)
+mode: 13mm Driver, Mic, Hyper
+价格: 499
+####
+品牌: boAt
+headphone name: boAt Bassheads 105 Wired in Ear Earphones with Mic (Black)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+####
+品牌: pTron
+headphone name: pTron Bassbuds Duo in Ear Earbuds with 32Hrs Total Playtime, Bluetooth 5.1 Wireless, Stereo Audio, Touch Control TWS, with
+是否无线耳机: 无线
+续航时间: 32Hrs
+充电时间: N/A
+mode: Bluetooth 5.1 Wireless, Stereo Audio, Touch Control TWS
+价格: 599
+####
+品牌: Boult Audio
+headphone name: Boult Audio BassBuds X1 in-Ear Wired Earphones with 10mm Extra Bass Driver and HD Sound with mic(Blue)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+####
+品牌: boAt
+headphone name: boAt Airdopes 181 in-Ear True Wireless Earbuds with ENx聶 Tech, Beast聶 Mode(Low Latency Upto 60ms) for Gaming, with Mic, AS
+是否无线耳机: 无线
+续航时间: N/A
+充电时间: N/A
+mode: Beast聶 Mode(Low Latency Upto 60ms) for Gaming, with Mic
+价格: 990
+####
+品牌: Boult Audio
+headphone name: Boult Audio BassBuds X1 in-Ear Wired Earphones with 10mm Extra Bass Driver and HD Sound with mic(Black)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 99
+####
+品牌: boAt
+headphone name: boAt Rockerz 335 Bluetooth in Ear Neckband with Qualcomm aptX & CVC, Upto 30 Hours Playback, ASAP Charge, Signature Sound,
+是否无线耳机: 无线
+续航时间: 30 Hours Playback
+充电时间: ASAP Charge
+mode: Qualcomm aptX & CVC
+价格: 990
+####
+品牌: boAt
+headphone name: boAt Airdopes 190 True Wireless in Ear Earbuds with Beast Mode(50ms) for Gaming, 40H Playtime, Breathing LEDs, Signature S
+是否无线耳机: 无线
+续航时间: 40H
+充电时间: N/A
+mode: Beast Mode(50ms) for Gaming, Breathing LEDs, Signature S
+价格: 499
+####
+品牌: Samsung
+headphone name: Samsung Galaxy Buds Live Bluetooth Truly Wireless in Ear Earbuds with Mic, Upto 21 Hours Playtime, Mystic Black
+是否无线耳机: 无线
+续航时间: Upto 21 Hours Playtime
+充电时间: N/A
+mode: N/A
+价格: 5,990
+####
+品牌: ZEBRONICS
+headphone name: ZEBRONICS Zeb-Sound Bomb 1 TWS Earbuds with BT5.0
+是否无线耳机: 无线
+续航时间: Up to 12H Playback
+充电时间: N/A
+mode: Touch Controls, Voice Assistant, Splash Proof
+价格: 499
+####
+品牌: boAt
+headphone name: boAt Bassheads 102 in Ear Wired Earphones with Mic(Charcoal Black)
+是否无线耳机: 有线
+续航时间: N/A
+充电时间: N/A
+mode: N/A
+价格: 290
